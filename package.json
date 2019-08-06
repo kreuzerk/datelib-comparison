@@ -1,0 +1,29 @@
+{
+  "name": "datelib-comparison",
+  "version": "1.0.0",
+  "description": "Simple lib to compare different date libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreuzerk/datelib-comparison.git"
+  },
+  "keywords": [
+    "Date",
+    "JavaScript",
+    "Playground"
+  ],
+  "author": "Kevin Kreuzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreuzerk/datelib-comparison/issues"
+  },
+  "homepage": "https://github.com/kreuzerk/datelib-comparison#readme",
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "dayjs": "^1.8.15",
+    "moment": "^2.24.0"
+  }
+}
